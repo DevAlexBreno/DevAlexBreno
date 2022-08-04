@@ -11,4 +11,5 @@ Skills que estudo atualmente:
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alex Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAlexBreno&show_icons=true&theme=dracula)
