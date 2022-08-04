@@ -12,5 +12,8 @@ Skills que estudo atualmente:
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</div>
+</div><br/>
+
+Focado em aprender programação, com o objetivo de me tornar um desenvovledor full stack, apesar de não ter muito talento para tecnologia, o que me diferencia é minha disciplina e minha vontade de aprender, para me tornar minha melhor versão a cada dia.
+
 
