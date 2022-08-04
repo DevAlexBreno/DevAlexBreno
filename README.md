@@ -15,6 +15,9 @@ Skills que estudo atualmente:
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexBreno&layout=compact)](https://github.com/DevAlexBreno/github-readme-stats)
+
+
 Focado em aprender programação, com o objetivo de me tornar um desenvovledor full stack, apesar de não ter muito talento para tecnologia, o que me diferencia é minha disciplina e minha vontade de aprender, para me tornar minha melhor versão a cada dia.
 
 
